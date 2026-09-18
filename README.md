@@ -1,4 +1,4 @@
-# 🏥 Clínica Médica — Gerenciamento de consultas médicas com eficiência e modernidade
+# 🏥 Curae Clinic — Sistema de Gerenciamento de consultas médicas com eficiência e modernidade
 
 <div align="center">
 
@@ -18,20 +18,7 @@
 
 ## 📋 Sobre o Projeto
 
-**Clínica Médica** é um sistema completo de gerenciamento para clínicas médicas, desenvolvido com as tecnologias mais modernas do mercado. A plataforma centraliza todas as operações clínicas — desde o cadastro de pacientes e médicos até o agendamento e controle de consultas — em uma interface intuitiva e segura.
-
-### 💡 O Problema que ele Resolve
-
-Clínicas médicas frequentemente enfrentam desafios como:
-
-- 📂 Controle manual e descentralizado de fichas de pacientes
-- 📅 Dificuldade no agendamento e acompanhamento de consultas
-- 👨‍⚕️ Falta de visibilidade sobre a agenda e o perfil de cada médico
-- 🔐 Ausência de controle de acesso e segurança nos dados sensíveis
-
-O **Clínica Médica** resolve esses problemas oferecendo uma plataforma web centralizada, com autenticação segura, API documentada e interface responsiva — permitindo que secretárias e administradores gerenciem toda a clínica a partir de um único sistema.
-
----
+**Curae Clinic** é um sistema completo de gerenciamento para clínicas médicas, desenvolvido com as tecnologias mais modernas do mercado. A plataforma centraliza todas as operações clínicas — desde o cadastro de pacientes e médicos até o agendamento e controle de consultas — em uma interface intuitiva e segura.
 
 ## 🎬 Demonstração
 
